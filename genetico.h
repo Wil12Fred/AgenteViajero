@@ -100,7 +100,7 @@ struct Problema{
 		return (max*aleatorio)/double(100000000);
 	}
 	double aptitud(Individuo& individuo){
-		double distancia;
+		double distancia;//actualizar funcion distancia de acuerdo al grafo y el individuo
 		return distancia*(double)100/distancia_total;
 	}
 };
