@@ -12,7 +12,7 @@ using namespace std;
 #include "xorshift.h" //semilla y función para puntos aleatorios
 #include "geometria.h" //Punto y propiedades basicas
 #include "grafo.h"
-#include "genetico.h"
+#include "genetico.h"// ACTUALIZAR LA FUNCIÓN APTITUD DE LA CLASE PROBLEMA
 #include "camara.h"
 #include "windowControl.h"
 #include "grafoAlgoritmos.h" //creación del grafo y algoritmos de busqueda
